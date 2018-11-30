@@ -89,7 +89,7 @@ paper {
   background: red;
 }
 `
-d
+
 var md = `
 # 自我介绍
 
